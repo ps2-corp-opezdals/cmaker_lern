@@ -1,4 +1,5 @@
 #include <iostream>
+#include "Cycle.h"
 using namespace std;
 
 void Sonysha(){
