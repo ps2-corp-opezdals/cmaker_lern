@@ -8,3 +8,11 @@ void Sonysha(){
     }
     
 }
+
+void Maksonchik(){
+    for (int i = 0; i < 3; i++)
+    {
+        cout << i << "Maksonchik" << endl;
+    }
+    
+}
