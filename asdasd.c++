@@ -2,11 +2,9 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
     setlocale(LC_ALL, " ");
     cout << "Привет!!!\n";
-    // Sonysha();
-    // Maksonchik();
-    // DANA();
     return 0;
 }
